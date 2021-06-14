@@ -229,4 +229,4 @@ root@root:/usr/local/hadoop/sbin$ cd ~
 
 root@root:~$ su root
 Password: 
-akanksha@root:/home/root$
+soundarya@root:/home/root$
